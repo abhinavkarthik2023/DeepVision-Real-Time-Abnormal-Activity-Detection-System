@@ -27,7 +27,7 @@ cd deepvision
 2. Install dependencies:
 pip install -r requirements.txt
 
-3. Run the application
+3. Run the application:
 streamlit run iiii.py
 
 
